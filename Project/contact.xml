@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="contact.xsl"?>
+<location>
+	<neighbourhood>
+			<place>St James</place>
+		<info>
+			<address>Assiniboine Cresc</address>
+			<number>2458</number>
+			<phone>(204)5996458</phone>
+			<locationindex>1</locationindex>
+		</info>
+	</neighbourhood>
+  <neighbourhood>
+			<place>St Boniface</place>
+		<info>
+			<address>Portage Ave</address>
+			<number>1457</number>
+			<phone>(204)5994578</phone>
+			<locationindex>2</locationindex>
+		</info>
+	</neighbourhood>
+  <neighbourhood>
+			<place>Downtown</place>
+		<info>
+			<address>Portage Ave</address>
+			<number>124</number>
+			<phone>(204)4558798</phone>
+			<locationindex>3</locationindex>
+		</info>
+	</neighbourhood>
+  <neighbourhood>
+			<place>St Vital</place>
+		<info>
+			<address>St Vital Avenue</address>
+			<number>123</number>
+			<phone>(204)4125878</phone>
+			<locationindex>4</locationindex>
+		</info>
+	</neighbourhood>
+</location>
